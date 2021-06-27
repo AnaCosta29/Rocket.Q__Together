@@ -18,7 +18,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * Express
 * SQLite
 
-## LINK
+## LINK Participe
 
-NLW#6 https://nextlevelweek.com/selecao-de-trilha/6
- 
+NLW#6 
+<p>https://nextlevelweek.com/selecao-de-trilha/6</p>
+<p>https://rocketseat.com.br/?utm_source=nextlevelweek-site&utm_medium=logo&utm_campaign=nextlevelweek</p>
