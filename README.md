@@ -18,4 +18,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * Express
 * SQLite
 
+## LINK
+
+NLW#6 https://nextlevelweek.com/selecao-de-trilha/6
  
